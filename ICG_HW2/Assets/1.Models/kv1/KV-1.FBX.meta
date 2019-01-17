@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: c1aa3510aa6509043956ead70ad2dc6c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: gearL-L
+    100002: gearL-R
+    100004: gearM-L-2
+    100006: gearM-L-2 1
+    100008: gearM-L-3
+    100010: gearM-L-4
+    100012: gearM-L-5
+    100014: gearM-L-6
+    100016: gearM-L-7
+    100018: gearM-R-1
+    100020: gearM-R-2
+    100022: gearM-R-3
+    100024: gearM-R-4
+    100026: gearM-R-5
+    100028: gearM-R-6
+    100030: gearM-R-7
+    100032: gearS-L-1
+    100034: gearS-L-2
+    100036: gearS-L-3
+    100038: gearS-R-1
+    100040: gearS-R-2
+    100042: gearS-R-3
+    100044: //RootNode
+    100046: KV1-Barrel-a
+    100048: KV1-Barrel-b
+    100050: KV1-Body
+    100052: KV1-Tower
+    100054: track-L
+    100056: track-R
+    400000: gearL-L
+    400002: gearL-R
+    400004: gearM-L-2
+    400006: gearM-L-2 1
+    400008: gearM-L-3
+    400010: gearM-L-4
+    400012: gearM-L-5
+    400014: gearM-L-6
+    400016: gearM-L-7
+    400018: gearM-R-1
+    400020: gearM-R-2
+    400022: gearM-R-3
+    400024: gearM-R-4
+    400026: gearM-R-5
+    400028: gearM-R-6
+    400030: gearM-R-7
+    400032: gearS-L-1
+    400034: gearS-L-2
+    400036: gearS-L-3
+    400038: gearS-R-1
+    400040: gearS-R-2
+    400042: gearS-R-3
+    400044: //RootNode
+    400046: KV1-Barrel-a
+    400048: KV1-Barrel-b
+    400050: KV1-Body
+    400052: KV1-Tower
+    400054: track-L
+    400056: track-R
+    2300000: gearL-L
+    2300002: gearL-R
+    2300004: gearM-L-2
+    2300006: gearM-L-2 1
+    2300008: gearM-L-3
+    2300010: gearM-L-4
+    2300012: gearM-L-5
+    2300014: gearM-L-6
+    2300016: gearM-L-7
+    2300018: gearM-R-1
+    2300020: gearM-R-2
+    2300022: gearM-R-3
+    2300024: gearM-R-4
+    2300026: gearM-R-5
+    2300028: gearM-R-6
+    2300030: gearM-R-7
+    2300032: gearS-L-1
+    2300034: gearS-L-2
+    2300036: gearS-L-3
+    2300038: gearS-R-1
+    2300040: gearS-R-2
+    2300042: gearS-R-3
+    2300044: KV1-Barrel-a
+    2300046: KV1-Barrel-b
+    2300048: KV1-Body
+    2300050: KV1-Tower
+    2300052: track-L
+    2300054: track-R
+    3300000: gearL-L
+    3300002: gearL-R
+    3300004: gearM-L-2
+    3300006: gearM-L-2 1
+    3300008: gearM-L-3
+    3300010: gearM-L-4
+    3300012: gearM-L-5
+    3300014: gearM-L-6
+    3300016: gearM-L-7
+    3300018: gearM-R-1
+    3300020: gearM-R-2
+    3300022: gearM-R-3
+    3300024: gearM-R-4
+    3300026: gearM-R-5
+    3300028: gearM-R-6
+    3300030: gearM-R-7
+    3300032: gearS-L-1
+    3300034: gearS-L-2
+    3300036: gearS-L-3
+    3300038: gearS-R-1
+    3300040: gearS-R-2
+    3300042: gearS-R-3
+    3300044: KV1-Barrel-a
+    3300046: KV1-Barrel-b
+    3300048: KV1-Body
+    3300050: KV1-Tower
+    3300052: track-L
+    3300054: track-R
+    4300000: KV1-Barrel-b
+    4300002: KV1-Barrel-a
+    4300004: KV1-Body
+    4300006: gearS-L-3
+    4300008: KV1-Tower
+    4300010: track-L
+    4300012: gearM-L-7
+    4300014: gearM-L-6
+    4300016: gearL-L
+    4300018: gearM-L-5
+    4300020: gearM-L-3
+    4300022: gearM-L-4
+    4300024: gearM-L-2
+    4300026: gearM-L-2
+    4300028: gearM-R-6
+    4300030: gearM-R-5
+    4300032: gearM-R-3
+    4300034: gearM-R-4
+    4300036: gearM-R-1
+    4300038: gearM-R-2
+    4300040: track-R
+    4300042: gearL-R
+    4300044: gearS-L-2
+    4300046: gearS-L-1
+    4300048: gearS-R-1
+    4300050: gearS-R-2
+    4300052: gearS-R-3
+    4300054: gearM-R-7
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
